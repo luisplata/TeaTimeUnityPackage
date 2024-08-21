@@ -1,0 +1,14 @@
+{
+  "name": "com.bellseboss.TeaTime",
+  "version": "1.0.0",
+  "displayName": "State Patter",
+  "description": "State Pattern for Unity",
+  "unity": "2021.1",
+  "keywords": ["service", "state", "unity"],
+  "author": {
+    "name": "Luis Plata",
+    "email": "www.luisplata@gmail.com"
+  },
+  "dependencies": {
+  }
+}
